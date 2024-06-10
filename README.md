@@ -1,2 +1,2 @@
-this is an unustruction file to the
+this is an instruction file to the
 repo.
